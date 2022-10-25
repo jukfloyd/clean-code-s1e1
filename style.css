@@ -13,7 +13,7 @@ body {
 .top-info img {
   width: 100%;
 }
-.top-info .more-inf {
+.top-info .more-info {
   font-family: fantasy, cursive;
 }
 
@@ -21,7 +21,7 @@ body {
   .top-info { text-align: center;
   }
 }
-.main-page-element {
+.main-container {
   display: block;
   width: 500px;
   margin: 0 auto 0;
@@ -31,7 +31,7 @@ body {
   display: inline-block;
   flex-grow: 1
 }
-.task-row-wrapper {
+.task-row {
   display: flex;
 }
 ul {
