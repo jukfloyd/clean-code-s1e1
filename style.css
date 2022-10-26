@@ -16,10 +16,11 @@
 .top-info .more-info {
   font-family: fantasy, cursive;
 }
-
 @media (max-width:768px) {
+
   .top-info { text-align: center;
   }
+
 }
 .main-container {
   display: block;
